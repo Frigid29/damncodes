@@ -1,0 +1,38 @@
+div{
+    background-image: linear-gradient(green,rgb(223, 115, 223), pink,yellow );
+    border: 1px solid black;
+    height: 350px;
+    width: 350px;
+    font-weight: 800;
+    position: relative;
+}
+
+#span1{
+    position:absolute;
+    top: 0;
+    left:0;
+}
+
+#span2{
+    position:absolute;
+    top: 0;
+    right: 0;
+}
+
+#span3{
+    position:absolute;
+    top: 45%;
+    left: 45%;
+}
+
+#span4{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#span5{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+}

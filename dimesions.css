@@ -1,0 +1,8 @@
+.dim{
+    margin: 5px;
+    border: 1px solid black;
+    background-color: burlywood;
+    max-width: 300px;
+    max-height: 150px;
+    overflow: scroll;
+}

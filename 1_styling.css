@@ -1,0 +1,8 @@
+@font-face{
+    font-family: shadowFont;
+    src: url(RubikDoodleShadow-Regular.ttf);
+}
+p{
+    font-family: shadowFont;
+    color: aqua;
+}
